@@ -1,6 +1,7 @@
 Project Overview:
 This interactive Power BI dashboard provides a comprehensive sales analysis for a pizza business. It enables stakeholders to track performance, understand customer preferences, and identify top-performing products and time periods to support strategic decisions.
 
+
 Objective:
 
 To visualize and analyze pizza sales data in order to:
@@ -12,6 +13,7 @@ To visualize and analyze pizza sales data in order to:
 ---Analyze sales distribution by pizza category and size
 
 ---Track business growth and customer behavior over time
+
 
 Key Features & Visuals:
 
@@ -28,6 +30,7 @@ Key Features & Visuals:
 ---Date Filter - 	Monthly slicer to track sales trends over January–July 2015
 
 
+
 Business Insights Delivered:
 
 ---Total Revenue: $817K from 21,350 orders with an average of 2.32 pizzas per order
@@ -42,6 +45,7 @@ Business Insights Delivered:
 
 ---Low Performers: The Brie Carrie ranks lowest in both orders and revenue
 
+
 Tools & Technologies Used
 
 ---Power BI Desktop
@@ -53,3 +57,6 @@ Tools & Technologies Used
 ---Excel: Used as the primary data source
 
 ---Slicers & Filters: Enabled dynamic exploration by date, category, and size
+
+![image](https://github.com/user-attachments/assets/c211f0d9-e8da-4ce7-aef7-f430c72cfaff)
+
