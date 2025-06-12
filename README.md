@@ -4,6 +4,7 @@ This interactive Power BI dashboard provides a comprehensive sales analysis for 
 Objective:
 
 To visualize and analyze pizza sales data in order to:
+
 ---Identify best and worst-selling pizzas
 
 ---Understand ordering patterns by time and day
