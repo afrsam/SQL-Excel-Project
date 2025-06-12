@@ -18,10 +18,15 @@ Date Filter - 	Monthly slicer to track sales trends over January–July 2015
 
 Business Insights Delivered:
 Total Revenue: $817K from 21,350 orders with an average of 2.32 pizzas per order
+
 Top Categories: Classic and Supreme pizzas lead in sales
+
 Best Time to Sell: Friday & Saturday, especially during 12–1 PM and 4–8 PM
+
 Customer Preference: Large-sized pizzas dominate with 46% of total sales
+
 Top Performers: Classic Deluxe and Barbecue Chicken are the best-selling pizzas
+
 Low Performers: The Brie Carrie ranks lowest in both orders and revenue
 
 Tools & Technologies Used
